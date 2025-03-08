@@ -20,7 +20,17 @@ export VERSION="2025030300"
 
 ## Install
 
-Now your ready, follow the [guide](https://grapheneos.org/install/cli) and check [Usage](https://github.com/MikeHorn-git/GrapheneOS-auto?#usage)
+Now you're ready, follow the [guide](https://grapheneos.org/install/cli) with suitable commands.
+
+```bash
+make reqs
+make images
+make unlock
+make flash
+make lock
+```
+
+Check [Usage](https://github.com/MikeHorn-git/GrapheneOS-auto?#usage) for help.
 
 # Usage
 
